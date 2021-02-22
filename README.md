@@ -1,7 +1,11 @@
-# [Organize My Files](http://qiplex.com/software/organize-my-files/)
+# [Easy File Organizer](http://qiplex.com/software/easy-file-organizer/)
 
-### One-click file organizer for Windows, Mac and Linux. [More info](http://qiplex.com/software/organize-my-files/)
+### One-click file organizer for Windows, macOS and Linux
+
+#### More info: https://qiplex.com/software/easy-file-organizer/
 
 
-![Organize My Files](http://qiplex.com/img/organize-my-files-app.png)
+![Easy File Organizer](http://qiplex.com/img/easy-file-organizer-app.png)
+
+
 
